@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">BlueShoes</string>
+
+    <string name="navigation_drawer_open">Menu gaveta aberto</string>
+    <string name="navigation_drawer_close">Menu gaveta fechado</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="tx_login">Login</string>
+    <string name="tx_or">ou</string>
+    <string name="tx_me_sign_up">me Cadastrar</string>
+    <string name="tx_conected_as">Conectado como:</string>
+
+    <string name="item_all_shoes">Todos os calçados</string>
+    <string name="item_flip_flops">Chinelos</string>
+    <string name="item_cleats">Chuteiras</string>
+    <string name="item_sandals">Sandálias</string>
+    <string name="item_ballet_shoes">Sapatilhas</string>
+    <string name="item_suit_shoes">Sapatênis</string>
+    <string name="item_shoes">Tênis</string>
+    <string name="item_performance_shoes">Tênis performance</string>
+    <string name="item_contact">Contato BlueShoes</string>
+    <string name="item_about">Sobre</string>
+    <string name="item_privacy_policy">Políticas de privacidade</string>
+    <string name="item_my_orders">Meus pedidos</string>
+    <string name="item_settings">Minhas configurações</string>
+    <string name="item_sign_out">Sair</string>
+
+
+    <!-- AboutFragment -->
+    <string name="about_frag_title">Sobre a BlueShoes</string>
+
+    <string name="about_frag_mission_title">Missão</string>
+    <string name="about_frag_mission_desc">
+        Inspirar e transformar a vida das pessoas com calçados que
+        permitem qualquer atividade no dia a dia.
+    </string>
+
+    <string name="about_frag_vision_title">Visão</string>
+    <string name="about_frag_vision_desc">
+        A melhor e mais inovadora experiência de compra do varejo
+        de calçados.
+    </string>
+
+    <string name="about_frag_values_title">Valores</string>
+    <string name="about_frag_values_desc">
+        Ética, responsabilidade, espírito de equipe, inspiração e
+        foco.
+    </string>
+
+    <string name="about_frag_ethic_title">Ética e integridade</string>
+    <string name="about_frag_ethic_desc">
+        A ética e a integridade fazem parte da nossa cultura e são
+        essenciais para o nosso negócio.
+    </string>
+
+    <string name="about_frag_social_networks_title">
+        Nos acompanhe nas redes sociais e não perca as promoções
+    </string>
+
+    <string name="ic_instagram_desc">Ícone do Instagram BlueShoes</string>
+    <string name="label_instagram">/BlueShoes</string>
+
+    <string name="ic_facebook_desc">Ícone do Facebook BlueShoes</string>
+    <string name="label_facebook">/BlueShoesFace</string>
+
+    <string name="ic_twitter_desc">Ícone do Twitter BlueShoes</string>
+    <string name="label_twitter">/BlueShoesTwitter</string>
+
+    <string name="ic_youtube_desc">Ícone do YouTube BlueShoes</string>
+    <string name="label_youtube">/BlueShoesYT</string>
+
+    <string name="ic_linkedin_desc">Ícone do LinkedIn BlueShoes</string>
+    <string name="label_linkedin">/BlueShoesLkIn</string>
+    <string name="info_linkedin">Para oportunidades de emprego!</string>
+
+    <string name="ic_cnpj_desc">Ícone do CNPJ BlueShoes</string>
+    <string name="label_cnpj">CNPJ 25.002.230/0001&#8211;10</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- ContactFragment -->
+    <string name="contact_frag_title">Contato</string>
+
+    <string name="ic_info_desc">Ícone de informação.</string>
+    <string name="contact_frag_info">
+        Em caso de problemas com a mercadoria ou em caso de trocas,
+        seja bem específico e também adicione o número do pedido.
+    </string>
+
+    <string name="contact_frag_phones_title">Telefones</string>
+    <string name="ic_phone_desc">Ícone de telefone.</string>
+    <string name="contact_frag_phone_cities">(27) 3333&#8211;1111</string>
+    <string name="contact_frag_phone_cities_info">
+        Espírito Santo e demais capitais no Brasil.
+    </string>
+    <string name="contact_frag_phone_other_regions">0800 111 0000</string>
+    <string name="contact_frag_phone_other_regions_info">
+        Demais regiões no Brasil.
+    </string>
+
+    <string name="contact_frag_emails_title">E-mails</string>
+    <string name="ic_email_desc">Ícone de e-mail.</string>
+    <string name="contact_frag_email_orders">pedidos@blueshoes.com.br</string>
+    <string name="contact_frag_email_orders_info">
+        Problemas com entrega ou defeito.
+    </string>
+    <string name="contact_frag_email_attendance">atendimento@blueshoes.com.br</string>
+    <string name="contact_frag_email_attendance_info">
+        Demais problemas / dúvidas.
+    </string>
+    <string name="info_email_app_install">
+        Instale algum aplicativo de e-mail.
+    </string>
+
+    <string name="contact_frag_address_title">Endereço</string>
+    <string name="ic_map_marker_desc">Ícone marcador de localização em map.</string>
+    <string name="contact_frag_address">
+        Rua Vergueiro, 943 - Serra - CEP 29504-001 - Espírito Santo - ES.
+    </string>
+    <string name="contact_frag_address_formatted_to_google_maps">
+        Rua Vergueiro, Serra, Espírito Santo, Brasil.
+    </string>
+
+    <string name="info_google_maps_install">
+        Instale o aplicativo do Google Maps.
+    </string>
+
+    <!-- PrivacyPolicyFragment -->
+    <string name="privacy_policy_frag_title">
+        Políticas de privacidade
+    </string>
+
+    <!-- LoginActivity -->
+    <string name="title_activity_login">
+        Login
+    </string>
+
+    <string name="invalid_email">
+        Forneça um e-mail válido.
+    </string>
+    <string name="invalid_password">
+        Mínimo de 6 caracteres.
+    </string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Senha</string>
+    <string name="forgot_my_password">
+        Esqueci minha senha
+    </string>
+    <string name="sign_in">Entrar</string>
+    <string name="sign_in_going">Entrando&#8230;</string>
+    <string name="or">ou</string>
+    <string name="sign_up">
+        Criar minha conta
+    </string>
+    <string name="privacy_policy">
+        Políticas de privacidade
+    </string>
+    <string name="invalid_login">
+        Dados de login inválidos.
+    </string>
+
+    <!-- ForgotPasswordActivity -->
+    <string name="title_activity_forgot_password">
+        Recuperação de senha
+    </string>
+
+    <string name="forgot_password_info">
+        Informe abaixo o seu e-mail de login e em seguida acesse
+        o e-mail para prosseguir com o passo a passo de recuperação
+        de acesso.
+    </string>
+    <string name="hint_login_email">E-mail de login</string>
+    <string name="recover_password">Recuperar senha</string>
+    <string name="recover_password_going">Enviando&#8230;</string>
+    <string name="invalid_login_email">
+        E-mail não encontrado em nossa base de dados.
+    </string>
+
+</resources>

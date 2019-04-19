@@ -4,10 +4,6 @@
     <string name="navigation_drawer_open">Menu gaveta aberto</string>
     <string name="navigation_drawer_close">Menu gaveta fechado</string>
 
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-
     <string name="action_settings">Settings</string>
 
     <string name="tx_login">Login</string>
@@ -81,9 +77,6 @@
     <string name="ic_cnpj_desc">Ícone do CNPJ BlueShoes</string>
     <string name="label_cnpj">CNPJ 25.002.230/0001&#8211;10</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
 
     <!-- ContactFragment -->
     <string name="contact_frag_title">Contato</string>
@@ -115,6 +108,9 @@
     <string name="contact_frag_email_attendance_info">
         Demais problemas / dúvidas.
     </string>
+    <string name="chooser_email_text">
+        Enviar e-mail com:
+    </string>
     <string name="info_email_app_install">
         Instale algum aplicativo de e-mail.
     </string>
@@ -137,6 +133,7 @@
         Políticas de privacidade
     </string>
 
+
     <!-- LoginActivity -->
     <string name="title_activity_login">
         Login
@@ -156,7 +153,7 @@
     <string name="sign_in">Entrar</string>
     <string name="sign_in_going">Entrando&#8230;</string>
     <string name="or">ou</string>
-    <string name="sign_up">
+    <string name="create_my_account">
         Criar minha conta
     </string>
     <string name="privacy_policy">
@@ -165,6 +162,7 @@
     <string name="invalid_login">
         Dados de login inválidos.
     </string>
+
 
     <!-- ForgotPasswordActivity -->
     <string name="title_activity_forgot_password">
@@ -182,5 +180,24 @@
     <string name="invalid_login_email">
         E-mail não encontrado em nossa base de dados.
     </string>
+
+
+    <!-- SignUpActivity -->
+    <string name="title_activity_sign_up">
+        Cadastro
+    </string>
+
+    <string name="hint_email_to_login">E-mail (para login)</string>
+    <string name="hint_confirm_password">Confirmar senha</string>
+    <string name="do_login">Realizar login</string>
+    <string name="sign_up">Cadastrar</string>
+    <string name="sign_up_going">Cadastrando&#8230;</string>
+    <string name="invalid_sign_up_email">
+        E-mail já cadastrado.
+    </string>
+    <string name="invalid_confirmed_password">
+        Confirme a senha informada no campo acima.
+    </string>
+
 
 </resources>

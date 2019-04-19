@@ -28,6 +28,12 @@
                 android:name=".ui.activitys.ForgotPasswordActivity"
                 android:label="@string/title_activity_forgot_password"
                 android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
+                android:name=".ui.activitys.SignUpActivity"
+                android:label="@string/title_activity_sign_up"
+                android:theme="@style/AppTheme.NoActionBar"/>
+
     </application>
 
 </manifest>
